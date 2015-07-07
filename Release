@@ -1,1 +1,9 @@
-
+Origin: Warredewalrus Repo
+Label: Warredewalrus Repo
+Suite: stable
+Version: 1.0
+Codename: Warredewalrus
+Architectures: iphoneos-arm
+Components: main
+Decription: Warredewalrus Repo
+MD5Sum:
